@@ -26,7 +26,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://creator.nightcafe.studio/my-creations)
+- [Night Cafe](https://creator.nightcafe.studio/my-creations)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
